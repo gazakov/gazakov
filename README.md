@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey there! 👋
 
-<!--
-**gazakov/gazakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a multifaceted noname schoolboy developer with a knack for tackling complex problems and a love for clean code. Here's a snapshot of my tech toolkit:
 
-Here are some ideas to get you started:
+- C/C++: System-level precision
+- Web Tech: HTML, CSS, JavaScript, TypeScript for responsive and interactive designs
+- Node.js: Server-side expertise
+- Python: Scripting and automation
+- Java & Kotlin: Building applications
+- Lua: Game development fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out for collaboration or just to share ideas!
+
+- 📫 How to reach me: https://gazakov.github.io/bio/
+Happy coding!
