@@ -1,13 +1,13 @@
 ## Hey there! 👋
 
-I'm a multifaceted noname schoolboy developer with a knack for tackling complex problems and a love for clean code. Here's a snapshot of my tech toolkit:
+I'm a multifaceted noname schoolboy developer with a knack for tackling complex problems and a love for masochism code. Here's a snapshot of my tech toolkit:
 
-- C/C++: System-level precision
-- Web Tech: HTML, CSS, JavaScript, TypeScript for responsive and interactive designs
-- Node.js: Server-side expertise
-- Python: Scripting and automation
-- Java & Kotlin: Building applications
-- Lua: Game development fun
+- C/C++: everything, from roblox to science works
+- Web Tech: HTML, CSS, JavaScript, TypeScript, React.js, Angular, Vue.js and i learned it but for no sense, i don't do frontend lol
+- Node.js: eeeeeeeeh javascript casino trillion dollar set 🤑🤑🤑
+- Python: AI AND MACHINE LEARNING ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
+- Java & Kotlin: minecraft
+- Lua: ROBLOX SCRITPT
 
 Feel free to reach out for collaboration or just to share ideas!
 
