@@ -8,8 +8,6 @@ I'm a multifaceted noname schoolboy developer with an affinity for complex probl
 - Python: AI AND MACHINE LEARNING ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 - Java & Kotlin: minecraft
 - Lua: ROBLOX SCRITPT
-
-i want to fucking kill myself
-
+- 
 - 📫 How to reach me: https://gazakov.github.io
 Happy coding!
