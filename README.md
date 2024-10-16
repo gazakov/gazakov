@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a multifaceted noname schoolboy developer with an affinity for complex problem-solving and a penchant for embracing the masochism in code. Here's a peek into my tech toolkit:
+I'm a multifaceted noname colleaugeboy developer with an affinity for complex problem-solving and a penchant for embracing the masochism in code. Here's a peek into my tech toolkit:
 
 - C/C++: everything, from roblox to science works
 - Web Tech: HTML, CSS, JavaScript, TypeScript, React.js, Angular, Vue.js and i learned it but for no sense, i don't do frontend lol
